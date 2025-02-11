@@ -1,1 +1,1 @@
-# Angular-Test
+# Hotel Search and Availability Page
